@@ -1,4 +1,10 @@
 ## Hey!! Me chamo Heber Sales! 👋😁
+##
+- 🔭 Atualmente à procura de um Estágio.
+- 🌱 Estudante de Ciência da Computação na UFRRJ.
+- 👾 Aprofundando meus conhecimentos em Tecologia cada vez mais.
+- 📫 Email para contato: heberssales@gmail.com
+
 <div align="center">
   <a href="https://github.com/HeberSales">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeberSales&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
