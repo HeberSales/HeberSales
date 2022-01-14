@@ -1,8 +1,8 @@
 ## Hey!! Me chamo Heber Sales! 👋😁
-- 🔭 Atualmente à procura de um Estágio.
+- 🔭 Atualmente à procura de um Estágio na Área de Tecnologia.
 - 🌱 Estudante de Ciência da Computação na UFRRJ-Universidade Federal Rural do Rio de Janeiro.
 - 📖 Inglês avançado.
-- 👾 Aprofundando meus conhecimentos em Tecologia cada vez mais.
+- 👾 Aprofundando meus conhecimentos em Tecnologia cada vez mais.
 - 📫 Email para contato: heberssales@gmail.com
 
   ##
