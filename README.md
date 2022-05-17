@@ -19,24 +19,13 @@
   
 </div>
   
-  ### Organizations I belong to
+### Organizations I belong to
 
  <table>
-   <td>
-      <a href="https://github.com/ATISLabs">
-        <img src="https://avatars.githubusercontent.com/u/63740618?s=200&v=4" alt="Atislabs logo" /><br>
-        <p>
-          <b>ATISLabs</b><br>
-          <i>An HPC and ML research group</i>
-        </p>
-      </a>
-    </td>
-   
     <tr>
-
       <td>
         <a href="https://github.com/UFRRJ-Projects">
-          <img src="https://avatars.githubusercontent.com/u/79663830?s=200&v=4"/><br>
+        <img src="https://avatars.githubusercontent.com/u/79663830?s=200&v=4" alt="nickolasrm UFRRJ logo" /><br
           <p>
             <b>My UFRRJ Projects</b><br>
             <i>Projects I made for university</i>
@@ -46,7 +35,7 @@
     </tr>
  </table>
   
-  ##
+ ##
   
 <div> 
   <a href="https://www.linkedin.com/in/heber-sales-483579188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
