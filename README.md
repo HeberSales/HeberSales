@@ -1,7 +1,7 @@
 ## Hey!! Me chamo Heber Sales! 👋😁
 - 🌱 Estudante de Ciência da Computação na UFRRJ-Universidade Federal Rural do Rio de Janeiro.
 - 📖 Inglês avançado.
-- 👾 Aprofundando meus conhecimentos em Data Science e Desenvolvimento Web.
+- 👾 Apaixonado em Data Science e Desenvolvimento Web.
 - 📫 Email para contato: heberssales@gmail.com
 
   ##
@@ -36,13 +36,12 @@
  </table>
   
  ##
- /* 
+
   <div> 
-    <a href="https://www.linkedin.com/in/heber-sales-483579188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/heber-sales/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-    ![Snake animation](https://github.com/HeberSales/HeberSales/blob/output/github-contribution-grid-snake.svg)
+
    
   </div>
-*/
   
   
