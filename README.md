@@ -1,8 +1,10 @@
 ## Hey!! Me chamo Heber Sales! 👋😁
-- 🌱 Estudante de Ciência da Computação na UFRRJ-Universidade Federal Rural do Rio de Janeiro.
-- 📖 Inglês avançado.
-- 👾 Apaixonado em Data Analysis, Data Science e Desenvolvimento Web.
-- 📫 Email para contato: heberssales@gmail.com
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
+ <h2>Sobre mim</h2> 
+- 🌱 Estudante de Ciência da Computação na UFRRJ-Universidade Federal Rural do Rio de Janeiro.<br>
+- 📖 Inglês avançado.<br>
+- 👾 Apaixonado em Data Analysis, Data Science e Desenvolvimento Web.<br>
+- 📫 Email para contato: heberssales@gmail.com<br>
 
   ##
   
@@ -14,7 +16,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
  
   
 </div>
@@ -25,7 +27,7 @@
     <tr>
       <td>
         <a href="https://github.com/UFRRJ-Projects">
-        <img src="https://avatars.githubusercontent.com/u/79663830?s=200&v=4" alt="nickolasrm UFRRJ logo" /><br
+        <img src="https://avatars.githubusercontent.com/u/79663830?s=200&v=4" alt="UFRRJ logo" /><br
           <p>
             <b>My UFRRJ Projects</b><br>
             <i>Projects I made for university</i>
