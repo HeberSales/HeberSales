@@ -1,7 +1,7 @@
 ## Hey!! Me chamo Heber Sales! 👋😁
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
  <h2>Sobre mim</h2> 
-- 🌱 Estudante de Ciência da Computação na UFRRJ-Universidade Federal Rural do Rio de Janeiro.<br>
+- 🌱 Ciência da Computação na UFRRJ-Universidade Federal Rural do Rio de Janeiro.<br>
 - 📖 Inglês avançado.<br>
 - 👾 Apaixonado em Data Analysis, Data Science e Desenvolvimento Web.<br>
 - 📫 Email para contato: heberssales@gmail.com<br>
